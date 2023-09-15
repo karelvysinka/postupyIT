@@ -1,0 +1,2 @@
+# postupyIT
+Podklady pro práci
