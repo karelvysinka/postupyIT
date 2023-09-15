@@ -1,0 +1,39 @@
+### Práce s GitHubem a Codespace jako Tým
+
+#### Úvod
+GitHub a Codespaces jsou vynikající nástroje pro týmovou práci na programovacích projektech. Zde je postup, jak je efektivně využít ve střední škole.
+
+#### Základní Nastavení
+
+1. **Vytvoření Účtu na GitHubu**: Každý člen týmu by si měl vytvořit účet na GitHubu.
+2. **Instalace Gitu**: Nainstalujte Git na všechny počítače, které budou používány pro vývoj.
+
+#### Vytvoření Repozitáře
+
+1. **Inicializace Repozitáře**: Jeden z členů týmu vytvoří nový repozitář na GitHubu.
+2. **Přidání Spolupracovníků**: V nastavení repozitáře přidejte ostatní členy týmu jako spolupracovníky.
+
+#### Práce s Codespaces
+
+1. **Aktivace Codespaces**: Aktivujte GitHub Codespaces pro váš repozitář.
+2. **Vytvoření Codespace**: Každý člen týmu si vytvoří vlastní Codespace.
+3. **Sdílení Codespace**: Pro společnou práci je možné sdílet Codespace s ostatními členy týmu.
+
+#### Vývojový Cyklus
+
+1. **Vytvoření Větve (Branch)**: Pro každou novou funkci nebo úpravu vytvořte novou větev.
+2. **Kódování**: V Codespace pište a testujte kód.
+3. **Commit a Push**: Po dokončení práce udělejte commit a push do větve na GitHubu.
+4. **Pull Request**: Vytvořte pull request pro sloučení větve do hlavního kódu.
+5. **Revize a Merge**: Ostatní členové týmu provedou revizi a poté sloučení kódu.
+
+#### Doporučené Nástroje pro Programátory
+
+1. **Slack**: Pro komunikaci v týmu.
+2. **Jira**: Pro správu úkolů a projektů.
+3. **Docker**: Pro kontejnerizaci aplikací.
+4. **Postman**: Pro testování API.
+5. **Visual Studio Code**: Lokální IDE s možností synchronizace s Codespaces.
+
+#### Závěr
+Tento postup by měl pomoci žákům středních škol efektivně pracovat s GitHubem a Codespaces jako tým. Je dobré si průběžně ověřovat znalosti a dovednosti, například prostřednictvím malých projektů nebo úkolů.
